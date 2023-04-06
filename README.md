@@ -1,4 +1,4 @@
 # SportCar
  <div align="center">
-     <img src="https://github.com/Yariz-IT/PC-Store-BootstrapAdaptive/blob/main/pc%20store.gif"/>
+     <img src="https://github.com/Yariz-IT/LamborghiniAdaptive/blob/main/lamborghini.gif"/>
   </div>
